@@ -30,3 +30,21 @@ Set the name and email that'll be attached to your commits and tags.
 **HEAD**: current branch  
 **HEAD^**: parent of HEAD  
 **HEAD~3**: great grandparent of HEAD  
+
+## Branches
+- List all local branches. Add -r flag to show all remote branches. -a flag for all branches.  
+  - `git branch`
+  - `git branch -r`
+  - `git branch -a`
+- Create a new branch  
+`git branch <new-branch>`
+- Switch to a branch  
+`git checkout <branch>`
+- Create a new branch and switch to it  
+`git checkout <branch>`
+- Delete a merged branch  
+`git branch -d <branch>`
+- Delete a branch  
+`git branch -D <branch>`
+- Add a tag to current commit (for new version releases)
+`git tag <tag-name>`
