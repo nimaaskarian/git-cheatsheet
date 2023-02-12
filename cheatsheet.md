@@ -7,8 +7,8 @@ Set the name and email that'll be attached to your commits and tags.
 ## Start a project
 
 - Either initialize a directory with git (create a local repo) and add a remote (optional)
-1. `git init <directory>`
-optional
+1. `git init <directory>`  
+Optional (if you have a remote):
 2. `git remote add <name> <url>`
 3. `git push --set-upstream <remote> <branch>`
 - Or download a remote repo  
