@@ -26,7 +26,7 @@ Set the name and email that'll be attached to your commits and tags.
 
 ## Basic concepts
 **main**: default development branch  
-**origin**: default upstream repo (remote)
-**HEAD**: current branch
-**HEAD^**: parent of HEAD
-**HEAD~3**: great grandparent of HEAD
+**origin**: default upstream repo (remote)  
+**HEAD**: current branch  
+**HEAD^**: parent of HEAD  
+**HEAD~3**: great grandparent of HEAD  
