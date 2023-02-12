@@ -14,3 +14,12 @@ Set the name and email that'll be attached to your commits and tags.
 - Or download a remote repo  
   `git clone <url>`
 
+## Make a change
+- Stage a file  
+`git add <file>`
+- Stage all files  
+`git add <file>`
+- Commit staged changes  
+`git commit -m "commit message"`
+- Commit changes to tracked files  
+`git commit -am "commit message"`
