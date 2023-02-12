@@ -23,3 +23,10 @@ Set the name and email that'll be attached to your commits and tags.
 `git commit -m "commit message"`
 - Commit changes to tracked files  
 `git commit -am "commit message"`
+
+## Basic concepts
+**main**: default development branch  
+**origin**: default upstream repo (remote)
+**HEAD**: current branch
+**HEAD^**: parent of HEAD
+**HEAD~3**: great grandparent of HEAD
